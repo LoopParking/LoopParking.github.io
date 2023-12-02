@@ -5,11 +5,11 @@
         
         <!-- Release for the latest version -->
         <item>
-            <title>Version 2.0.35</title>
+            <title>Version 2.0.36</title>
             <description>
                 <![CDATA[
-                    <p>Loop Parking Update - Version 2.0.35</p>
-                    <p>Release notes for version 2.0.35:</p>
+                    <p>Loop Parking Update - Version 2.0.36</p>
+                    <p>Release notes for version 2.0.36:</p>
                     <ul>
                         <li>New features and enhancements</li>
                         <li>Fixed bugs reported by users</li>
@@ -20,7 +20,7 @@
             <pubDate>Publication Date in RFC-822 format</pubDate>
             <enclosure
                 url="URL to the latest version of Loop Parking"
-                sparkle:version="2.0.35"
+                sparkle:version="2.0.36"
                 sparkle:shortVersionString="2.0"
                 length="File size in bytes"
                 type="application/octet-stream"
